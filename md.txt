@@ -1,1 +1,1 @@
-#HelloGitHub
+Describe process of cloning a repo, doing work and publishing to GutHub
